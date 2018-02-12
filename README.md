@@ -1,4 +1,4 @@
-# 44-563 A01 Introduction to JavaScript
+# 44-563 A02 Introduction to JavaScript
 
 Introduces a set of JavaScript mathematical functions. 
 
