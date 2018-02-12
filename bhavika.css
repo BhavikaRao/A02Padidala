@@ -1,0 +1,197 @@
+@charset "utf-8";
+/* CSS Document */
+ body {
+padding-top: 50px;
+background-image: url(file:///C:/Users/S531374/44563/A02/images/concrete_seamless.png);
+}
+
+
+
+.title-head{
+    font-size: 23px;
+    color: #006;
+	padding: 5px;
+	text-align: center;	
+}
+
+#sub-head{
+    font-size: 14px;
+    width: 88%;
+    color: #4c4c4c;
+    padding: 9px;
+    background: #fdfdfd;
+    border: 1px solid #dcdcdc;
+    text-align: left;
+	margin-top: 10px;
+    font-weight: bold;
+}
+
+#sub-head-long{
+    font-size: 14px;
+    width: 100%;
+    color: #4c4c4c;
+    padding: 9px;
+    background: #fdfdfd;
+    border: 1px solid #dcdcdc;
+    text-align: left;
+	margin-top: 10px;
+    font-weight: bold;
+}
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{
+    border-color: #101010;
+    margin-top: 7px; 
+    margin-bottom: 0px; 
+}
+
+a {
+    color: #dff0d8;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #ddd;
+    text-decoration: none;
+}
+
+a:focus{
+    color: #ddd;
+    text-decoration: none;
+}
+
+.img-sec{
+    float: right;
+
+}
+.name-head{
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 10px;
+    padding: 0px 15px 0px 0px;
+}
+
+.act-img{
+    border-radius: 80px;
+}
+
+.footer-txt{
+	background: #000;
+    color: #fff;
+    text-align: center;
+    margin: 0px;
+    padding: 10px;
+}
+
+#sec-vid{
+    text-align: center;	
+}
+
+.para-txt{
+	font-size:14px;
+	text-align: justify;
+    margin: 10px;
+    color: #464545;
+}
+
+label{
+    color: #464545;
+}
+.con-required-label{
+    color: #ff0000;
+    font-weight: 400;
+}
+	
+.con-field-label{   
+    display: block;
+    font-weight: 700;
+    font-size: 14px;
+    float: none;
+    line-height: 1.3;
+    margin: 15px 0 0px 0;
+    padding: 0 0 0 12px;
+}
+
+
+
+#form-message{
+    height: 120px;	
+}
+
+.forms-submit{
+    margin-left: 10px;
+    margin: 5px 0 10px 10px;
+    background: #eaeaea;
+    color: #000;
+    height: 25px;
+    border: 1px solid #b6b6b6;
+    width: 65px;}
+
+ul.square {list-style-type:square}
+
+.price-cal{
+    text-align: -webkit-center;	
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    margin-top: 0px;
+    resize: vertical;
+}
+
+#img-sec-con{
+    text-align: center;	
+	float:none;
+}
+
+input[type=submit] {
+    background-color: #000;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+	margin: 10px 0 0 0;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+td, th {
+    padding: 5px;
+}
+
+#calculator {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	width: 95%;
+}
+
+.form-container{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+#act-image-index{
+    text-align: center;
+    float: none;
+}
+
+#sm-icon{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.sm-cont{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#country{
+    color: #464545;
+}
